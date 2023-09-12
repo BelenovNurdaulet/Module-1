@@ -30,7 +30,7 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
     {
-        Exmpl06();
+        Exmpl05();
     }
 
 }
